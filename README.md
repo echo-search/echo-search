@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://echo-search.net">
-      <img src="https://img.shields.io/badge/EchoSearch-Search%20Engine-blue?logo=favicon.png" />
+      <img src="https://img.shields.io/badge/EchoSearch-Search%20Engine-blue?logo=https://esapk.netlify.app/favicon.png" />
     </a>
     <a href="https://echo-search.net/essentials/echo_ai">
       <img src="https://img.shields.io/badge/Echo_AI-6E40C9?logo=openai&logoColor=white" alt="Echo AI" />
